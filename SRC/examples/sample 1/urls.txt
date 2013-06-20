@@ -7,9 +7,13 @@ https://github.com/pranavgupta21/multithreaded-UDP-client-server
 
 # CODE THREAD
 http://franckh.developpez.com/tutoriels/posix/pthreads/
+https://computing.llnl.gov/tutorials/pthreads/ (!! TOP !!)
 
 # APPRENDRE LE C
 http://www.nongnu.org/c-prog-book/online/
 
 # POO 
 http://laurent-audibert.developpez.com/Cours-UML/html/Cours-UML006.html
+
+# MAKEFILE
+introduction à makefile : http://gl.developpez.com/tutoriel/outil/makefile/
