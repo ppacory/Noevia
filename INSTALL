@@ -1,0 +1,17 @@
+  ,--.  ,--.                       ,--.        
+  |  ,'.|  | ,---.  ,---.,--.  ,--.`--' ,--,--.
+  |  |' '  || .-. || .-. :\  `'  / ,--.' ,-.  |
+  |  | `   |' '-' '\   --. \    /  |  |\ '-'  |
+  `--'  `--' `---'  `----'  `--'   `--' `--`--'
+
+
+noe: Artificial Intelligence
+Authors: Pierre PACORY (ppacory@noevia.com)
+
+For Installation need dependencies : 
+
+-> Python >= 2.7.2 (3.x not compatible)
+-> fabric - Simple Pythonic remote deployment tool
+
+Installation : ./install.sh
+
